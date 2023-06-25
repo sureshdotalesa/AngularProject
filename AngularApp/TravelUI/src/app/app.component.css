@@ -1,0 +1,9 @@
+.main-container{
+    display: grid;
+    align-content: stretch;
+    grid-template-columns: 1fr 6fr;
+    overflow-y: hidden;
+    animation: 500ms 0.2s ease-in;
+    margin-bottom: 47px; 
+    background-color: antiquewhite;
+}
